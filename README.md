@@ -2,6 +2,8 @@
 
 This repository contains data and code used in the paper "Hydrologic regimes drive nitrate export behavior in human-impacted watersheds" (https://hess.copernicus.org/articles/25/1333/2021/hess-25-1333-2021.html).
 
+Gorski, G. and Zimmer, M. A.: Hydrologic regimes drive nitrate export behavior in human-impacted watersheds, Hydrol. Earth Syst. Sci., 25, 1333–1345, https://doi.org/10.5194/hess-25-1333-2021, 2021.
+
 The repo contains three sets of data:
   L0-Raw daily discharge and nitrate data for the five watersheds downloaded from USGS through the NWIS portal
   L1-Daily data with "event-periods" and "non-event periods" delieated for later analysis
