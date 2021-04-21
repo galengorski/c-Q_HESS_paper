@@ -9,6 +9,6 @@ The repo contains three sets of data:
   L1-Daily data with "event-periods" and "non-event periods" delieated for later analysis
   L2-Event and non-event data grouped into data stuctures for easier manipulation in R
   
- The repo contains several codes for reproducing the plots found in the paper. All plots can be regenerated with the data from this repository. The only data from the paper that is not in this repository is the spatial data used to make Figure 1. Due to its size, it is not stored here, but is available upon request. All the data used for this project were publicly available.
+ The repo contains several codes for reproducing the analysis and plots found in the paper. The idea is that each script should be able to stand alone to regenerate plots from the paper. All plots can be regenerated with the data from this repository. The only data from the paper that is not in this repository is the spatial data used to make Figure 1. Due to its size, it is not stored here, but is available upon request. All the data used for this project were publicly available.
  
  Questions? Email: ggorski@ucsc.edu
